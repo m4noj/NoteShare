@@ -1,4 +1,4 @@
-# 🎓 Expert-Student Discussion & Learning Platform
+# 🎓 NoteShare - a Students-Experts Discussion & Learning Platform
 
 A dynamic web-based platform built with **PHP**, **MySQL**, and **Bootstrap**, enabling students, subject-matter experts, and knowledge seekers to **collaborate, connect, and share educational content**.
 
